@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Melque Santos 👋  
 
 <div align="center" style="background: none;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MelqueSantos&show_icons=true&theme=radical&icon_color=ffffff&custom_title=GitHub%20Stats&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MelqueSantos&show_icons=true&theme=radical&icon_color=ffffff&custom_title=GitHub%20Stats&hide_border=true&bg_color=00000000&rank_icon=github" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelqueSantos&layout=compact&theme=radical&custom_title=Tecnologias%20Mais%20Usadas&hide_border=true&bg_color=00000000" />
 </div>
 
