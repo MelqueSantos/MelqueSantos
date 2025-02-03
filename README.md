@@ -1,15 +1,10 @@
 ### Olá! Eu sou o Melque Santos 👋  
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MelqueSantos&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelqueSantos&layout=compact&theme=blue-green&custom_title=Tecnologias" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="background: none;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MelqueSantos&show_icons=true&theme=radical&icon_color=ffffff&custom_title=GitHub%20Stats&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelqueSantos&layout=compact&theme=radical&custom_title=Tecnologias%20Mais%20Usadas&hide_border=true&bg_color=00000000" />
+</div>
+
 
 ## 🚀 Tecnologias que utilizo  
 
@@ -24,7 +19,6 @@
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>  
 
-
 ## 🛠️ Ferramentas que utilizo  
 
 <div style="display: inline_block">
@@ -33,7 +27,6 @@
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </div>  
-
 
 <br/>
 
